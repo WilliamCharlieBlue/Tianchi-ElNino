@@ -26,7 +26,7 @@ docker run -v /tmp:/tcdata 6e7679a0365c /bin/bash run.sh
 ### 2.4 在B战上找到了Datawhale的一个比较友好的系列视频
 
 ```shell
-# 默默地从零开始的天池世界
+# 默默地从零开始的天池世界生活
 https://www.bilibili.com/video/av242637682/
 ```
 
